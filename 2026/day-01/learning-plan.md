@@ -9,12 +9,16 @@
 **# 3 clear goals for the next 90 days**
 
 1.Consistency, intent, Track-Excel, Enjoy the process, showcase
+
 2.deploy a production-grade application on Kubernetes & automation (IAC)
+
 3.Mega Project with all tools implementation -> 3
 
 **# 3 core DevOps skills**
 
 1.Approach of What,Why & How -> STAR -> Divide & Concer -> Story Telling
+
 2.K8S,IAC,LINUX,Docker
+
 3.troubleshooting(The why) & debugging(the How)
 
