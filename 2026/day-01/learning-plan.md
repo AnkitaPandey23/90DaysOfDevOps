@@ -12,6 +12,6 @@
 
 #3 core DevOps skills
 1.Approach of What,Why & How -> STAR -> Divide & Concer -> Story Telling
-2.K8S,IAC,LINUX,Docker,
+2.K8S,IAC,LINUX,Docker
 3.troubleshooting(The why) & debugging(the How)
 
